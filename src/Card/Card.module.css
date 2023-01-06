@@ -1,0 +1,74 @@
+.front{
+    /* color: red; */
+  position: absolute;
+    margin-left: 180px;
+    margin-top: 80px;
+    width: 447px;
+    height: 246px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background: linear-gradient(120deg,#5E90E6,#620594,#623FF2,#6244FA,#6328C0,#CF56BD,#EA7167,#FEFFFF);
+}
+
+.cardNumber{
+color: white;
+ text-align: center;
+margin-top: 110px;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.cardName{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.cardDate{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.back{
+    position: absolute;
+    background-color: #AEB5BD;
+    margin-left: 280px;
+    margin-top: 360px;
+    width: 447px;
+    height: 246px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+}
+
+.cardCvc{
+    background-color: #6a727c;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 330px;
+    height: 35px;
+    margin-top: 20px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.magnet{
+    background-color: #000000;
+    width: auto;
+    margin-top: 20px;
+    height: 50px;
+    
+}
+
