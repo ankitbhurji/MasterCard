@@ -30,6 +30,11 @@ function Card(props){
         Month = props.CardData.Month
         Year = props.CardData.Year
         Cvc = props.CardData.Cvc
+
+        toast.success('Data updated successfuly !', {
+            position: toast.POSITION.TOP_CENTER,
+            className: 'p-4  bg-light bg-gradient'
+        });
  
     }else{
         Number = '0000 0000 0000 0000'
