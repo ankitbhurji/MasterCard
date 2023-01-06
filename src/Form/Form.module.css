@@ -1,0 +1,47 @@
+.form{
+    margin-left: 900px;
+    margin-top: 140px;
+    padding-right: 200px;
+    float: right;
+    position: relative;
+}
+
+input[type=text]{
+  background-color: rgba(0, 0, 0, 0); 
+  width: 100%;
+  padding: 8px 10px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid rgb(105, 91, 91);
+  border-radius: 8px;
+  box-sizing: border-box;
+  }
+
+input[type=number]{
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  padding: 8px 10px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid rgb(105, 91, 91);
+  border-radius: 8px;
+  box-sizing: border-box;
+  }
+
+.confirm{
+    background-color: #220930;
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+    padding: 12px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+    background-color: #3c0a59;
+}
+
+p{
+    color: red;
+}

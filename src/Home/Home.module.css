@@ -1,0 +1,25 @@
+.home_1{
+    background: linear-gradient(120deg,rgba(22, 4, 31, 0.98),#380C4A,#380C4A,
+    #3B0E46,
+    #3D0F42,
+    #441436,
+    #33254E,
+    #2B2D59,
+    #292654,
+    #271F4F,
+    #240D37,
+    #22052D);
+    position: absolute;
+    width: 483px;
+    height: 100%;
+}
+
+.home_2{
+    background-color: rgba(0, 0, 0, 0.2);
+    /* width: 1440px; */
+    width: 100%;
+    position: absolute;
+    height:100%;
+    /* height: 713px; */
+
+}
